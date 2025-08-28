@@ -1,6 +1,6 @@
 # Copilot Usage Tracker
 
-A VS Code extension that tracks your GitHub Copilot usage with detailed statistics and visualizations.
+A TypeScript-based Visual Studio extension to help users track their AI adoption. It provides a simple dashboard showing AI usage across all VS instances linked to the same user. It also logs prompts in a text file to help users review and improve their prompt engineering skills.
 
 ## Features
 
